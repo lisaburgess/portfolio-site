@@ -1,11 +1,11 @@
 {
   "name": "portfolio",
   "version": "0.0.1",
-  "description": "portfolio website for ryan burgess",
+  "description": "portfolio website for lisa burgess",
   "repository": {
     "type": "git"
   },
-  "author": "Ryan Burgess",
+  "author": "Lisa Burgess",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-minify-css": "^1.2.0",
@@ -27,12 +27,10 @@
     "test": "node test"
   },
   "keywords": [
-    "ryan",
+    "lisa",
     "burgess",
     "portfolio",
-    "website",
-    "javascript",
-    "react"
+    "website"
   ],
   "license": "MIT"
 }
