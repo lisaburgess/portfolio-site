@@ -1,5 +1,3 @@
-My Portfolio Site
+My Personal Site
 ==============
-[www.ryanburgess.com](http://ryanburgess.com)
-
-Built using Node.js, Express, React.js and Sass.
+[www.lisacoulson.com](http://lisacoulson.com)
